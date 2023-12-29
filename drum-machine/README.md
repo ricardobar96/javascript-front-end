@@ -14,7 +14,7 @@ The app consists of 9 clickable drum pad elements, each with a unique audio clip
 
 ## Screenshots
 
-![drum](https://github.com/ricardobar96/small-javascript-projects/assets/73242474/ea431fd1-e30f-4276-b873-56f312016e84)
+![drum](../images/drum.png)
 
 ## License
 
