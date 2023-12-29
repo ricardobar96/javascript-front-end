@@ -15,7 +15,7 @@ This app serves as a simple example of fetching random items stored in an array 
 
 ## Screenshots
 
-![quote](https://github.com/ricardobar96/small-javascript-projects/assets/73242474/b0718d77-03ef-4102-b98b-0b9769286cd5)
+![quote](../images/quote.png)
 
 ## License
 
