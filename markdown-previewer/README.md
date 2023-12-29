@@ -14,9 +14,9 @@ When the user enters GitHub flavored markdown into the editor element, the text 
 
 ## Screenshots
 
-![editor](https://github.com/ricardobar96/small-javascript-projects/assets/73242474/06c610c3-40cc-48f9-9a38-6e03fc5a8773)
+![editor](../images/editor.png)
 
-![preview](https://github.com/ricardobar96/small-javascript-projects/assets/73242474/9237c7be-19d7-4901-8249-7e720a44c7e2)
+![editor](../images/preview.png)
 
 ## License
 
